@@ -16,7 +16,6 @@ public class ExemploCondicao2 {
             //Operadores Logicos
             //&& e
             // || ou
-
         Scanner scanner = new Scanner(System.in);
         System.out.println("Digite um valor: ");
         valorBruto = scanner.nextDouble();
